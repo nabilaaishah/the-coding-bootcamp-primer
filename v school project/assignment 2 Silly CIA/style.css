@@ -1,0 +1,40 @@
+.content {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+h1 {
+    color: darkgreen;
+}
+
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    line-height: 25px; /* Make the paragraphs have a line height of 25 pixels. */
+    font-size: 20px;
+}
+
+h4 {
+    text-transform: uppercase; /* Make the "You might also like" label all uppercase. */
+}
+
+img {
+    float: left; /* Make the image 'float' to the left of the body content. */
+    width: 450px;
+    height: auto;
+    margin: 25px 10px; /* Change this to fit all images */
+}
+
+a:link {
+    text-decoration: none; /* Remove the underline from the links. */
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline; /* Make an underline appear when you hover over a link. */
+}

@@ -1,0 +1,215 @@
+h1 {
+    text-align: center;
+}
+
+.wrapper {
+	display: flex;
+}
+
+.stick {
+	height: 450px;
+	width: 10px;
+	background: black;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+/* france */
+.flag1 {
+	width: 270px;
+	height: 180px;
+	box-shadow: 0px 0px 90px 1px #989;
+	background-color: transparent;
+	position: relative;
+	display: inline-block;
+}
+
+.top1 {
+	height: 60px;
+	background-color: #002495;
+}
+
+.middle1 {
+	height: 60px;
+	background-color: #FFFFFF;
+}
+
+.bottom1 {
+	height: 60px;
+	background-color: #ED2938;
+}
+
+/* germany */
+.flag2 {
+	width: 270px;
+	height: 180px;
+	box-shadow: 0px 0px 90px 1px #989;
+	background-color: transparent;
+	position: relative;
+	display: inline-block;
+}
+
+.top2 {
+	height: 60px;
+	background-color: #000000;
+}
+
+.middle2 {
+	height: 60px;
+	background-color: #DE0002;
+}
+
+.bottom2 {
+	height: 60px;
+	background-color: #FFCE00;
+}
+
+/* madagascar */
+.flag3 {
+	width: 270px;
+	height: 180px;
+	box-shadow: 0px 0px 90px 1px #989;
+	background-color: transparent;
+	position: relative;
+	display: inline-block;
+}
+
+.top3 {
+	height: 60px;
+	background-color: #FFFFFF;
+}
+
+.middle3 {
+	height: 60px;
+	background-color: #FC3E32;
+}
+
+.bottom3 {
+	height: 60px;
+	background-color: #007E39;
+}
+
+/* switzerland */
+.flag4 {
+    background: #FFFFFF;
+    position: relative;
+    width: 400px;
+    height: 300px;
+}
+
+.vertical4 {
+    background: #FF0002;
+    position: absolute;
+    left: 30%;
+    width: 60px;
+    height: 300px;
+}
+
+.horizontal4 {
+    background: #FF0002;
+    position: absolute;
+    top: 50%;
+    width: 400px;
+    height: 60px;
+    margin-top: -30px;
+}
+
+/* sweden */
+.flag5 {
+    background: #0000ff;
+    position: relative;
+    width: 400px;
+    height: 300px;
+}
+
+.vertical5 {
+    background: #ffff00;
+    position: absolute;
+    left: 30%;
+    width: 60px;
+    height: 300px;
+}
+
+.horizontal5 {
+    background: #ffff00;
+    position: absolute;
+    top: 50%;
+    width: 400px;
+    height: 60px;
+    margin-top: -30px;
+}
+/* gambia */
+.flag6 {
+	width: 270px;
+	height: 180px;
+	box-shadow: 0px 0px 90px 1px #989;
+	background-color: transparent;
+	position: relative;
+	display: inline-block;
+}
+
+.top6 {
+	height: 60px;
+	background-color: #CE1127;
+}
+
+.middle6 {
+	height: 60px;
+	background-color: #FFFFFF;
+}
+
+.bottom6 {
+	height: 60px;
+	background-color: #0D1D8B;
+}
+
+.bawah6 {
+    height: 60px;
+    background-color: #3B7827;
+}
+
+/* japan */
+.flag7 {
+	width: 270px;
+	height: 180px;
+	box-shadow: 0px 0px 90px 1px #989;
+	background-color: transparent;
+	position: relative;
+	display: inline-block;
+}
+
+.top7 {
+	height: 60px;
+	background-color: #FFFFFF;
+}
+
+.bottom7 {
+	height: 60px;
+	background-color: #BC022C;
+}
+
+/* niger */
+.flag8 {
+	width: 270px;
+	height: 180px;
+	box-shadow: 0px 0px 90px 1px #989;
+	background-color: transparent;
+	position: relative;
+	display: inline-block;
+}
+
+.top8 {
+	height: 60px;
+	background-color: #E15307;
+}
+
+.middle8 {
+	height: 60px;
+	background-color: #FFFFFF;
+}
+
+.bottom8 {
+	height: 60px;
+	background-color: #10AF2A;
+}

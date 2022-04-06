@@ -1,0 +1,29 @@
+.content {
+    max-width: 800px;
+    margin: auto;
+    background: black;
+    padding: 10px;
+}
+body {
+    background-color: #111111;
+}
+h1 {
+    color: #E2E80F;
+    text-align: center;
+    font-size: x-large;
+}
+p {
+    color: #eeeeee;
+    font-size: large;
+    line-height: 25px; /* give them some larger separation between each line */
+}
+.credits {
+    text-decoration: underline; /* make them look like anchor links */
+    text-decoration-color: #49DAFF;
+    cursor: pointer; /* make the cursor change to the little hand when the user is hovering over it */
+    margin: 15px 0;
+}
+#film-description {
+    font-size: small;
+    font-style: italic;
+}

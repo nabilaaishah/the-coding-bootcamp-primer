@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+body, html {
+    margin: 10px;
+}
+.origami {
+    display: inline-block;
+    background-color: #F5C6D6;
+    padding: 15px;
+    margin: 15px;
+    width: 1200px;
+    height: 200px;
+}
+.fushiguro {
+    display: inline-block;
+    background-color: #EE2E84;
+    padding: 15px;
+    margin: 15px;
+    box-sizing: border-box;
+    width: 200px;
+    height: 150px;
+}
+.megumin {
+    display: inline-block;
+    background-color: #85CFD8;
+    padding: 15px;
+    margin: 15px;
+    width: 300px;
+    height: 200px;
+}
+.haruharu {
+    display: inline-block;
+    background-color: #8DC63F;
+    padding: 15px;
+    margin: 15px;
+    width: 600px;
+    height: 200px;
+}
+.nanamin {
+    display: inline-block;
+    background-color: #E76E34;
+    padding: 15px;
+    margin: 15px;
+    width: 300px;
+    height: 200px;
+}
